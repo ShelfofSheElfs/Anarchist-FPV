@@ -1,6 +1,11 @@
 # Anarchist-FPV
 A guide to cheap, off-the-shelf FPV for revolutionary drone pilots.
 
+## Directories
+glossaries - A bunch of glossaries of acronyms and terms
+
+parts-lists - Parts lists for various types of FPV drones
+
 ## Why should anarchists learn to fly FPV drones?
 Anarchists should learn FPV flying for a couple reasons:
 
