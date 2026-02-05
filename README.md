@@ -1,6 +1,9 @@
 # Anarchist-FPV
 A guide to cheap, off-the-shelf FPV for revolutionary drone pilots.
 
+# Wiki
+Head over to the Wiki section to find guides and specific information pages.
+
 ## Directories
 **glossaries** - A bunch of glossaries of acronyms and terms  
 **parts-lists** - Parts lists for various types of FPV drones
